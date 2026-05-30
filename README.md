@@ -22,6 +22,8 @@
 
 <p align="center">I create high-performance FiveM resources, Discord automation systems, and custom QBOX solutions focused on scalability, maintainability, and roleplay immersion.</p>
 
+---
+
 ## 🖥️ Tech Stack
 <div align="center">
 
@@ -29,7 +31,7 @@
 
 </div>
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=MriKNG&show_icons=true&theme=github_dark" />
@@ -40,10 +42,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MriKNG&theme=tokyo-night" />
 </p>
 
-
+---
 ## 🚧 Current Projects
 
-### 🏙️ VelorianRP
+### 🏙️ Velorian RP
 A custom QBOX-powered roleplay experience focused on immersion, progression, and long-term community growth.
 
 ### 🤖 Velorian Discord Bot
@@ -52,6 +54,7 @@ Moderation, automation, ticketing, and management tools built specifically for r
 ### ⚙️ Resource Development
 Performance-focused FiveM resources designed for scalability, maintainability, and seamless integration.
 
+---
 ## 🔗 Socials
 <div align="center">
 
