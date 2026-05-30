@@ -32,8 +32,8 @@
 ## 📊 Github Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MriKNG&show_icons=true&theme=github_dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MriKNG&layout=compact&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=MriKNG&show_icons=true&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MriKNG&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
